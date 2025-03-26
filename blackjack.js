@@ -620,8 +620,8 @@ function determineWinner() {
   const dealerValue = calculateHandValue(dealerHand);
   if(!isMinBet){
   if (playerValue === 21) {
-    console.log('BLACKJACK!!! 200:1 PAYOUT\n')
-    balance += (200 * betAmount);
+    console.log('BLACKJACK!!! 2:1 PAYOUT\n')
+    balance += (2 * betAmount);
   } else if (playerValue > 21) {
     console.log('Player busted. Dealer wins.');
   } else if (dealerValue > 21) {
