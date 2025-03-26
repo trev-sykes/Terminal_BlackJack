@@ -98,8 +98,8 @@ The running count is displayed after each hand.
 ## Card Representation
 ````
 ┌───────┐
-│   ♥️   │
-│   A   │
-│   ♥️   │
+│   ♥️  
+│   A   |
+│   ♥️
 └───────┘
 `````
