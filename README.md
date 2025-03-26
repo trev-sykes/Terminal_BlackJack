@@ -96,9 +96,10 @@ The running count is displayed after each hand.
   - Display rendering
 
 ## Card Representation
-
+````
 ┌───────┐
 │   ♥️   │
 │   A   │
 │   ♥️   │
 └───────┘
+`````
